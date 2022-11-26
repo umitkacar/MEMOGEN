@@ -1,8 +1,8 @@
-# MEMO-AI
-Memorize with AI
+# MEMO-IMAGEN
+Learn ENglish with AI
+
 
 ## TEAMS
-- Senior Machine Learning Engineer in Computer Vision
 - Senior Machine Learning Engineer in Computer Vision
 - Senior Backend Developer
 - Senior DevOps Developer
@@ -16,7 +16,13 @@ Memorize with AI
 - Stable Diffusion (Text-Image)
 - Google Extension
 
-https://huggingface.co/spaces/stabilityai/stable-diffusion
+## STABLE DIFFUSION
+- https://huggingface.co/spaces/stabilityai/stable-diffusion
+- https://huggingface.co/blog/annotated-diffusion
+- https://huggingface.co/blog/stable_diffusion
+- https://huggingface.co/runwayml/stable-diffusion-v1-5
+- https://laion.ai/blog/laion-5b/
+- https://github.com/huggingface/diffusers
 
 ## LOGO
 https://www.brandcrowd.com/
