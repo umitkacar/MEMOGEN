@@ -1,5 +1,5 @@
 # MEMO-IMAGEN
-Learn ENglish with AI
+Learn English with AI
 
 
 ## TEAMS
@@ -23,6 +23,7 @@ Learn ENglish with AI
 - https://huggingface.co/runwayml/stable-diffusion-v1-5
 - https://laion.ai/blog/laion-5b/
 - https://github.com/huggingface/diffusers
+- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb
 
 ## LOGO
 https://www.brandcrowd.com/
