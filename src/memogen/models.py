@@ -1,7 +1,6 @@
 """Data models for MEMOGEN vocabulary system."""
 
 from enum import Enum
-from typing import Optional
 
 from pydantic import BaseModel, Field
 
@@ -38,16 +37,16 @@ class VocabularyCard(BaseModel):
     synonyms: str = Field(..., description="Comma-separated synonyms")
     level: DifficultyLevel = Field(..., description="Difficulty level")
     emoji: str = Field(default="📚", description="Visual emoji")
-    image_url: Optional[str] = Field(None, description="Image URL")
+    image_url: str | None = Field(None, description="Image URL")
     ielts_band: str = Field(..., description="IELTS band score range")
 
     class Config:
         """Pydantic model configuration."""
 
-        json_schema_extra = {
+        json_schema_extra = {  # noqa: RUF012
             "example": {
                 "word": "ABUNDANT",
-                "pronunciation": "/əˈbʌndənt/",
+                "pronunciation": "/əˈbʌndənt/",  # noqa: RUF001
                 "pos": "adjective",
                 "definition": "Available in large quantities; plentiful",
                 "example": "The forest has abundant wildlife and natural resources.",

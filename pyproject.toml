@@ -284,6 +284,7 @@ extra_checks = true
 show_error_codes = true
 show_column_numbers = true
 pretty = true
+plugins = ["pydantic.mypy"]
 
 [[tool.mypy.overrides]]
 module = "tests.*"

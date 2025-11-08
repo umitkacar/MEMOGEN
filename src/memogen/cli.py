@@ -46,7 +46,7 @@ def main() -> int:
     args = parser.parse_args()
 
     if args.serve:
-        from memogen.server import start_server
+        from memogen.server import start_server  # noqa: PLC0415
 
         start_server(host=args.host, port=args.port)
         return 0

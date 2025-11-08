@@ -10,7 +10,7 @@ def sample_easy_card() -> VocabularyCard:
     """Create a sample easy-level vocabulary card."""
     return VocabularyCard(
         word="ABUNDANT",
-        pronunciation="/əˈbʌndənt/",
+        pronunciation="/əˈbʌndənt/",  # noqa: RUF001
         pos="adjective",
         definition="Available in large quantities; plentiful",
         example="The forest has abundant wildlife and natural resources.",
@@ -26,7 +26,7 @@ def sample_medium_card() -> VocabularyCard:
     """Create a sample medium-level vocabulary card."""
     return VocabularyCard(
         word="AMBIGUOUS",
-        pronunciation="/æmˈbɪɡjuəs/",
+        pronunciation="/æmˈbɪɡjuəs/",  # noqa: RUF001
         pos="adjective",
         definition="Open to more than one interpretation; unclear or inexact",
         example="The politician's ambiguous statement left voters confused.",
@@ -42,7 +42,7 @@ def sample_difficult_card() -> VocabularyCard:
     """Create a sample difficult-level vocabulary card."""
     return VocabularyCard(
         word="EPHEMERAL",
-        pronunciation="/ɪˈfemərəl/",
+        pronunciation="/ɪˈfemərəl/",  # noqa: RUF001
         pos="adjective",
         definition="Lasting for a very short time; transitory",
         example="The beauty of cherry blossoms is ephemeral.",
