@@ -5,14 +5,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Master+IELTS+Vocabulary+%F0%9F%93%9A;3D+Interactive+Flashcards+%F0%9F%8E%B4;AI-Generated+Visual+Learning+%F0%9F%8E%A8;Production-Ready+%E2%9C%85;Test+Coverage+63%%2B+%F0%9F%A7%AA" alt="Typing SVG" />
 
-[![GitHub Stars](https://img.shields.io/github/stars/umitkacar/MEMOGEN?style=for-the-badge&logo=github&color=yellow)](https://github.com/umitkacar/MEMOGEN/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/umitkacar/memogen-ielts-flashcards?style=for-the-badge&logo=github&color=yellow)](https://github.com/umitkacar/memogen-ielts-flashcards/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg?style=for-the-badge&logo=github&logoColor=white)](https://umitkacar.github.io/MEMOGEN/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg?style=for-the-badge&logo=github&logoColor=white)](https://umitkacar.github.io/memogen-ielts-flashcards/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Code Quality](https://img.shields.io/badge/Code_Quality-A+-success?style=for-the-badge&logo=codacy)](https://github.com/umitkacar/MEMOGEN)
-[![Tests](https://img.shields.io/badge/Tests-12/12_Pass-success?style=for-the-badge&logo=pytest)](https://github.com/umitkacar/MEMOGEN)
-[![Coverage](https://img.shields.io/badge/Coverage-63.64%25-success?style=for-the-badge&logo=codecov)](https://github.com/umitkacar/MEMOGEN)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/umitkacar/MEMOGEN/pulls)
+[![Code Quality](https://img.shields.io/badge/Code_Quality-A+-success?style=for-the-badge&logo=codacy)](https://github.com/umitkacar/memogen-ielts-flashcards)
+[![Tests](https://img.shields.io/badge/Tests-12/12_Pass-success?style=for-the-badge&logo=pytest)](https://github.com/umitkacar/memogen-ielts-flashcards)
+[![Coverage](https://img.shields.io/badge/Coverage-63.64%25-success?style=for-the-badge&logo=codecov)](https://github.com/umitkacar/memogen-ielts-flashcards)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/umitkacar/memogen-ielts-flashcards/pulls)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -60,7 +60,7 @@
 
 ## 🚀 Demo
 
-**[🎴 Try Live Demo →](https://umitkacar.github.io/MEMOGEN/)**
+**[🎴 Try Live Demo →](https://umitkacar.github.io/memogen-ielts-flashcards/)**
 
 <div align="center">
 
@@ -171,13 +171,13 @@
 
 ### 🌐 Use Online
 
-Simply visit the live demo: **[https://umitkacar.github.io/MEMOGEN/](https://umitkacar.github.io/MEMOGEN/)**
+Simply visit the live demo: **[https://umitkacar.github.io/memogen-ielts-flashcards/](https://umitkacar.github.io/memogen-ielts-flashcards/)**
 
 ### 💻 Run Locally
 
 ```bash
 # Clone the repository
-git clone https://github.com/umitkacar/MEMOGEN.git
+git clone https://github.com/umitkacar/memogen-ielts-flashcards.git
 
 # Navigate to directory
 cd MEMOGEN
@@ -197,7 +197,7 @@ python -m http.server 8000
 # Select branch: main
 # Select folder: / (root)
 # Save and wait for deployment
-# Your site will be live at: https://YOUR_USERNAME.github.io/MEMOGEN/
+# Your site will be live at: https://YOUR_USERNAME.github.io/memogen-ielts-flashcards/
 ```
 
 ---
@@ -510,8 +510,8 @@ safety>=3.0.0          # Vulnerability checker
 ```
 
 **Deployment URLs:**
-- 🌐 **Production**: https://umitkacar.github.io/MEMOGEN/
-- 📦 **Repository**: https://github.com/umitkacar/MEMOGEN
+- 🌐 **Production**: https://umitkacar.github.io/memogen-ielts-flashcards/
+- 📦 **Repository**: https://github.com/umitkacar/memogen-ielts-flashcards
 - 📖 **Documentation**: [DEVELOPMENT.md](DEVELOPMENT.md)
 
 ---
@@ -626,7 +626,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=umitkacar/MEMOGEN&type=Date)](https://star-history.com/#umitkacar/MEMOGEN&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=umitkacar/memogen-ielts-flashcards&type=Date)](https://star-history.com/#umitkacar/memogen-ielts-flashcards&Date)
 
 ---
 
@@ -661,7 +661,7 @@ If you find this project helpful:
 ### 🔗 Connect & Stay Updated
 
 [![GitHub](https://img.shields.io/badge/GitHub-umitkacar-181717?style=for-the-badge&logo=github)](https://github.com/umitkacar)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://umitkacar.github.io/MEMOGEN/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://umitkacar.github.io/memogen-ielts-flashcards/)
 
 ---
 
